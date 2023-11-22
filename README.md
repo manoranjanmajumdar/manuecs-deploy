@@ -1,0 +1,2 @@
+# manuecs-deploy
+ecs
